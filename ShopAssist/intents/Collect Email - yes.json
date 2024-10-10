@@ -1,0 +1,40 @@
+{
+  "id": "bbeeaa1e-7b5b-47d9-bd57-0a9eb2ba91ac",
+  "parentId": "7bedb282-4add-41eb-b25e-ddbca1677758",
+  "rootParentId": "7bedb282-4add-41eb-b25e-ddbca1677758",
+  "name": "Collect Email - yes",
+  "auto": true,
+  "contexts": [
+    "CollectEmail-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CollectEmail.CollectEmail-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your order confirmed"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

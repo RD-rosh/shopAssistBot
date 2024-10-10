@@ -1,0 +1,89 @@
+[
+  {
+    "id": "d2ce419c-e8b7-418f-8997-74ce8cebc96f",
+    "data": [
+      {
+        "text": "order cofirm",
+        "meta": "@confirm-order",
+        "alias": "confirm-order",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c226e44-4fe7-4ae9-81d8-b51c79fb8820",
+    "data": [
+      {
+        "text": "send details to ",
+        "userDefined": false
+      },
+      {
+        "text": "do@vector.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9546cb7c-545f-4af4-a372-c01341d0bd96",
+    "data": [
+      {
+        "text": "Send info to ",
+        "userDefined": false
+      },
+      {
+        "text": "jane@example.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6005331d-286f-4695-94a4-f15909cee07f",
+    "data": [
+      {
+        "text": "bacon@email.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64c908a8-16cd-4676-8181-48425b08c138",
+    "data": [
+      {
+        "text": "My email is ",
+        "userDefined": false
+      },
+      {
+        "text": "john@example.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

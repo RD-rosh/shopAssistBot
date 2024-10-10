@@ -1,0 +1,93 @@
+[
+  {
+    "id": "7c57efe9-bcc6-4855-ba7b-b7ca8146c19f",
+    "data": [
+      {
+        "text": "small",
+        "meta": "@cloth-size",
+        "alias": "cloth-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3938369a-200d-43ed-9b16-454c0855d93c",
+    "data": [
+      {
+        "text": "xtra large",
+        "meta": "@cloth-size",
+        "alias": "cloth-size",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddefbce8-7e27-4a63-8f03-c371612a5b8c",
+    "data": [
+      {
+        "text": "give me size ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@cloth-size",
+        "alias": "cloth-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11b14815-3c81-4ed0-aafc-0d489e4ed3fb",
+    "data": [
+      {
+        "text": "I want size ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "meta": "@cloth-size",
+        "alias": "cloth-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c80a4797-1d03-4e99-84a8-ec23f1333fbd",
+    "data": [
+      {
+        "text": "Size ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@cloth-size",
+        "alias": "cloth-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

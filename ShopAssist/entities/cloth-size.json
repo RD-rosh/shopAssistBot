@@ -1,0 +1,9 @@
+{
+  "id": "790f2c0d-dc3d-4a3c-b70d-5a60e0048b89",
+  "name": "cloth-size",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "249b9034-777d-46cf-a742-e57c68e56df7",
+  "parentId": "f1e895f4-bba2-4ca2-9dc2-f5f0b49abc03",
+  "rootParentId": "f1e895f4-bba2-4ca2-9dc2-f5f0b49abc03",
+  "name": "Order Confirmation - yes",
+  "auto": true,
+  "contexts": [
+    "OrderConfirmation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "OrderConfirmation.OrderConfirmation-yes",
+      "affectedContexts": [
+        {
+          "name": "OrderConfirmation-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your order is confirmed. An agent will contact you soon.\nThank you."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

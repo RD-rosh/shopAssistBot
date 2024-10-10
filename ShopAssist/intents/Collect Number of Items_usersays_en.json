@@ -1,0 +1,124 @@
+[
+  {
+    "id": "e376aa75-d4db-4b1d-8bba-10b58021095a",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.number-integer",
+        "alias": "quantity",
+        "userDefined": false
+      },
+      {
+        "text": " items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "613383c2-b4c7-459a-af13-7993aaf354e9",
+    "data": [
+      {
+        "text": "two",
+        "meta": "@sys.number-integer",
+        "alias": "quantity",
+        "userDefined": false
+      },
+      {
+        "text": " shirts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bf0c07a-73c8-4a17-857e-4e8c447bbee9",
+    "data": [
+      {
+        "text": "one",
+        "meta": "@sys.number-integer",
+        "alias": "quantity",
+        "userDefined": true
+      },
+      {
+        "text": " item please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2f16741-a4b7-4e7c-bbe2-120726a6b689",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantity",
+        "userDefined": false
+      },
+      {
+        "text": " item please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97aaaf0e-d582-4b79-ace4-c1032a6d09b5",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantity",
+        "userDefined": false
+      },
+      {
+        "text": " items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f27c6f9f-acec-4ecd-9705-6db94fb2b4b5",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number-integer",
+        "alias": "quantity",
+        "userDefined": false
+      },
+      {
+        "text": " pieces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

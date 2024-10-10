@@ -1,0 +1,17 @@
+[
+  {
+    "value": "yes",
+    "synonyms": [
+      "yes",
+      "order confirm"
+    ]
+  },
+  {
+    "value": "no",
+    "synonyms": [
+      "no",
+      "don\u0027t order",
+      "order not confirmed"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "value": "small",
+    "synonyms": [
+      "small",
+      "S",
+      "s"
+    ]
+  },
+  {
+    "value": "medium",
+    "synonyms": [
+      "medium",
+      "M",
+      "m"
+    ]
+  },
+  {
+    "value": "Large",
+    "synonyms": [
+      "Large",
+      "L",
+      "l"
+    ]
+  },
+  {
+    "value": "extra-large",
+    "synonyms": [
+      "extra-large",
+      "extra large",
+      "xl",
+      "XL",
+      "x large",
+      "xtra large"
+    ]
+  },
+  {
+    "value": "extra-small",
+    "synonyms": [
+      "extra-small",
+      "extra small",
+      "xs",
+      "XS",
+      "xtra small"
+    ]
+  }
+]

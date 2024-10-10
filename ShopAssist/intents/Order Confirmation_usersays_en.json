@@ -1,0 +1,88 @@
+[
+  {
+    "id": "719120ff-905f-4b1c-ab9f-75204f855308",
+    "data": [
+      {
+        "text": "I want to place an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3c8b82d-73f3-42ca-8ddd-408e46f9ca79",
+    "data": [
+      {
+        "text": "Hi ",
+        "userDefined": false
+      },
+      {
+        "text": "person",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " ! You ordered ",
+        "userDefined": false
+      },
+      {
+        "text": "quantity",
+        "meta": "@sys.number-integer",
+        "alias": "quantity",
+        "userDefined": true
+      },
+      {
+        "text": " items of ",
+        "userDefined": false
+      },
+      {
+        "text": "cloth code",
+        "meta": "@sys.number",
+        "alias": "cloth-code",
+        "userDefined": true
+      },
+      {
+        "text": " email in size ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@cloth-size",
+        "alias": "cloth-size",
+        "userDefined": true
+      },
+      {
+        "text": ".  We will contact you at ",
+        "userDefined": false
+      },
+      {
+        "text": "phone-number",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      },
+      {
+        "text": ".  Type confirm order to proceed your order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

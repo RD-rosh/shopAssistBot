@@ -1,0 +1,93 @@
+[
+  {
+    "id": "ed60f820-a67f-4e24-a656-e069adfe955a",
+    "data": [
+      {
+        "text": "phone me ",
+        "userDefined": false
+      },
+      {
+        "text": "928797394",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca7d47ee-ecf9-4ba3-b89a-52feec380733",
+    "data": [
+      {
+        "text": "84783764876",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bb654de-bf22-4915-853c-1a0ca111f1f8",
+    "data": [
+      {
+        "text": "contact number ",
+        "userDefined": false
+      },
+      {
+        "text": "592377463",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3383fa1-821f-43b4-920d-2030bf831a46",
+    "data": [
+      {
+        "text": "Contact me at ",
+        "userDefined": false
+      },
+      {
+        "text": "987654321",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "839f0e17-0449-4899-aa4c-6510c465be65",
+    "data": [
+      {
+        "text": "My phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "123456789",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
